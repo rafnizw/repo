@@ -1,0 +1,12 @@
+---
+
+app:
+- name: docker
+  url: https://download.docker.com
+  system:
+  - id: linux
+    os:
+    - debian
+    - ubuntu 
+  - id: mac
+  - id: win

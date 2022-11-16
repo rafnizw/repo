@@ -3,5 +3,7 @@
 
 os:
 - id: debian
+  url: https://download.docker.com
+  gpg: 
 - id: ubuntu
 - id: alpine 
