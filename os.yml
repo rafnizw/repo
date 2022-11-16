@@ -2,5 +2,6 @@
 # url: https://raw.githubusercontent.com/rafnizw/repo/master/os.yml
 
 os:
-- debian
-  name: test
+- id: debian
+- id: ubuntu
+- id: alpine 
